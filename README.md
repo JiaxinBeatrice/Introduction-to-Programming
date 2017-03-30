@@ -1,6 +1,6 @@
 # Introduction-to-Programming
 final project of the course
-Since we use toolbox from the teacher, I only upload main.c
+Since we use toolbox from the teacher, I only upload "main.c".
 
 ## 開場動畫
 ![](demoGraph/openAni.PNG "open animation")
